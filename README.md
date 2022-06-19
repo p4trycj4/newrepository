@@ -6,3 +6,5 @@ _test_
 <sub>text</sub>
 <sup>text</sup>
 > test_wazny_text
+**textzmiany**
+_texxtzmiany_
