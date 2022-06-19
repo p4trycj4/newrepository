@@ -1,4 +1,4 @@
-**test**
+**tes1t**
 _test_
 ~~test~~
 **test_wazny_text**
@@ -8,3 +8,4 @@ _test_
 > test_wazny_text
 **textzmiany**
 _texxtzmiany_
+**przyladowy test**
